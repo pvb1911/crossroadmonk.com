@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/date/</loc>
+    <lastmod>2023-04-22T21:30:44-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/dfbehuf/</loc>
+    <lastmod>2023-04-22T21:30:44-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/date/my-first-post/</loc>
+    <lastmod>2023-04-22T21:30:44-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/dfbehuf/my-first-post/</loc>
+    <lastmod>2023-04-22T21:30:44-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-04-22T21:30:44-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+</urlset>
