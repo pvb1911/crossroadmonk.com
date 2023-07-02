@@ -129,6 +129,12 @@
       url = "/layouts/blank/docs"
       parent = "blank"
       weight = 2
+  [[navbar]]
+    identifier = "blank_docs"
+    name = "GaTime"
+    url = "/layouts/GaTime"
+    parent = "blank"
+    weight = 2
 [[navbar]]
   identifier = "opinion"
   name = "Opinion"
