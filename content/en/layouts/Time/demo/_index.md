@@ -1,5 +1,5 @@
 ---
-title: 'GaTime'
+title: 'ABCD'
 type: 'gallery'
 gallery_resources: "about"
 bookcase_cover_src: 'cover/picture.png'
